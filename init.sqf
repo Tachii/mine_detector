@@ -1,0 +1,1 @@
+0 spawn compile preprocessFileLineNumbers "\Mine_detector\clientInit.sqf";

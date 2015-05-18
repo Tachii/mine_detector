@@ -13,7 +13,7 @@ class CfgPatches
 		ammo[]={};
 		author[]=
 		{
-			"Blender, gpgpgpgp (aka Ms), modified by Tachi"
+			"Blender, gpgpgpgp (aka Ms), Tachi"
 		};
 	};
 };

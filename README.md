@@ -1,2 +1,2 @@
-# utg
-Custom made mods for UTG
+# Mine Detector
+Improved mine-detection for ArmA 3
